@@ -1,4 +1,5 @@
-# https://github.com/GoogleCloudPlatform/python-docs-samples/blob/master/cloud-sql/mysql/sqlalchemy/main.py
+# google cloud function which creates a row in survey.questions
+# source: https://github.com/GoogleCloudPlatform/python-docs-samples/blob/master/cloud-sql/mysql/sqlalchemy/main.py
 # sql schema must be appropriately setup
 # Entry point : add_question
 # need Cloud Functions Invoker priv on gcf-admin-robot.iam.gserviceaccount.com	Google Cloud Functions Service Agent
